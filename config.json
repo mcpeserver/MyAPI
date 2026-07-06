@@ -1,0 +1,25 @@
+{
+  "name": "Ran Dev",
+
+  "contact": {
+    "phone": "0895602592430",
+    "whatsapp": "0895602592430",
+    "email": ""
+  },
+
+  "links": {
+    "portfolio": "https://sfl.gl/x2ic",
+    "discord": "https://discord.gg/9KUN2byKRM",
+    "github": "",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "status": {
+    "maintenance": false,
+    "online": true
+  },
+
+  "updated_at": "2026-07-06T00:00:00Z",
+  "version": "1.0.0"
+}
